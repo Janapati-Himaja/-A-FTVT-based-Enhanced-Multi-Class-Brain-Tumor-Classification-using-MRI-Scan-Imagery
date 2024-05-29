@@ -2,6 +2,12 @@
 Brain Tumor Classification using Fine-Tuned Deep Learning Models Brain tumors, whether malignant or benign, pose significant health risks and require accurate detection for effective diagnosis and treatment. 
 Magnetic Resonance Imaging (MRI) scans are commonly used for brain tumor detection, with deep learning models emerging as valuable tools in medical image processing.  
 This repository explores the application of various fine-tuned deep learning models, including ResNet-50, MobileNet-V2, EfficientNet-B0, and novel Fine-Tuned Vision Transformer Models (FTVTs) - FTVT-b16, FTVT-b32, FTVT-l16, FTVT-l32, for brain tumor classification. The study utilizes a dataset comprising 7023 MRI scan images categorized into four classes: glioma, meningioma, pituitary, and no tumor.  # Dataset 7023 MRI scan images Categories: glioma, meningioma, pituitary, no tumor # Methodology Implementation of ResNet-50, MobileNet-V2, EfficientNet-B0, and FTVTs Fine-tuning pre-trained models on brain tumor dataset Evaluation using accuracy, recall, precision, and F1-score 
+# Data sets and other links used  
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset  
+https://www.kaggle.com/datasets/janapatihimaja/efficientnet  
+https://www.kaggle.com/datasets/janapatihimaja/mobilenet  
+https://www.kaggle.com/datasets/janapatihimaja/pthfiles  
+https://www.kaggle.com/datasets/janapatihimaja/resnet
 # Results  
 ResNet-50: Accuracy - 96.5%   
 MobileNet-V2: Accuracy - 94.9%   
